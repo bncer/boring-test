@@ -1,2 +1,2 @@
 C text to create merge conflict
-Edit to make D branch
+Edit to make D branch. It seems like I need to ping other person
