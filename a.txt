@@ -1,1 +1,2 @@
 I try to make merge conflict
+Test build workflow on CI
