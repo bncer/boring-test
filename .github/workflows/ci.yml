@@ -16,7 +16,7 @@ jobs:
     needs: [ init ]
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 30
+      - run: sleep 90
   dynamic:
     needs: [ init ]
     runs-on: ubuntu-latest
