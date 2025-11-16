@@ -1,2 +1,3 @@
 I try to make merge conflict
 Test build workflow on CI
+Some build should happen
