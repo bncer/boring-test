@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, pending status!");
+    println!("Hello, world!");
 }
