@@ -3,3 +3,4 @@ Test build workflow on CI
 Some build should happen
 And A branch came back
 Start time add
+Test local permissions
