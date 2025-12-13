@@ -3,4 +3,4 @@ Test build workflow on CI
 Start time add
 Test local permissions
 It's time to check CI completeness
-Record running_time in build table
+Record duration in build table
